@@ -1,4 +1,6 @@
 ## GitHub Docs <!-- omit in toc -->
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzech564%2Fdocs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzech564%2Fdocs?ref=badge_shield)
+
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
@@ -69,3 +71,6 @@ The GitHub product documentation in the assets, content, and data folders are li
 All other code in this repository is licensed under a [MIT license](LICENSE-CODE).
 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzech564%2Fdocs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzech564%2Fdocs?ref=badge_large)
